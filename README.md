@@ -1,10 +1,8 @@
-![logo]()
-<h1 align="center">Hi 👋, I'm Muhammad Raza Naqvi</h1>
+![logo](https://github.com/mastonaqvi/Muhammad_Raza_Naqvi/blob/main/Banner.png)
+<h1 align="center">Hi 👋, I'm Muhammad Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan 🇵🇰</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/127d7857-d723-4c48-a4b7-0fcc6bd3b1ac">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mastonaqvi&label=Profile%20views&color=0e75b6&style=flat" alt="mastonaqvi" /> </p>
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBjdXl0YnN5dnhxbDJyNGlxejRyZGs3cGhuazE1djJ5NWJzN3VmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 
 - 🌱 I’m currently learning **Flutter, Dart**
 
